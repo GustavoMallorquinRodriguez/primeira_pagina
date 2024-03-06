@@ -1,0 +1,15 @@
+header {
+    background-color: burlywood;
+}
+main{background-color: aqua;
+}
+footer{background-color: blueviolet;
+}
+header img { width: 400px;
+}
+main img { width: 500px;
+}
+footer { width: 500px; ;
+}
+footer img { width: 400px;
+}
